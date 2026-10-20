@@ -1,103 +1,98 @@
-<!-- Quemando Tokens · organization profile · assets live in ./assets -->
+<!-- Quemando Tokens · perfil de la organización · recursos gráficos en ./assets -->
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img src="./assets/banner-light.svg" width="100%" alt="Quemando Tokens — engineering, artificial intelligence and software. Bilbao, Basque Country.">
+  <img src="./assets/banner-light.svg" width="100%" alt="Quemando Tokens: ingeniería, inteligencia artificial y software. Bilbao, País Vasco.">
 </picture>
 
-<br>
-
-<sub><a href="#about">About</a> &nbsp;·&nbsp; <a href="#the-team">The team</a> &nbsp;·&nbsp; <a href="#focus">Focus</a> &nbsp;·&nbsp; <a href="#how-we-work">How we work</a> &nbsp;·&nbsp; <a href="#projects">Projects</a></sub>
+<sub><a href="#quiénes-somos">Quiénes somos</a> &nbsp;·&nbsp; <a href="#el-equipo">El equipo</a> &nbsp;·&nbsp; <a href="#en-qué-trabajamos">En qué trabajamos</a> &nbsp;·&nbsp; <a href="#cómo-trabajamos">Cómo trabajamos</a> &nbsp;·&nbsp; <a href="#ahora">Ahora</a> &nbsp;·&nbsp; <a href="#proyectos">Proyectos</a></sub>
 
 </div>
 
-<br>
+### Quiénes somos
 
-### About
+**Cuatro estudiantes de ingeniería en Bilbao a quienes nos gustan los problemas difíciles.**
 
-**Four engineering students from Bilbao who enjoy hard problems.**
-
-We study at Universidad de Deusto and build together: software, artificial intelligence and the occasional idea that sounds too ambitious until it runs. We care about doing things properly — clear code, honest results and work we would be happy to show.
+Estudiamos en la Universidad de Deusto y construimos juntos: software, inteligencia artificial y alguna idea que parece demasiado ambiciosa hasta que funciona. Nos importa hacer las cosas bien: código claro, resultados honestos y un trabajo que enseñaríamos con orgullo.
 
 <details>
-<summary><sub>Why “Quemando Tokens”?</sub></summary>
+<summary><sub>¿Por qué «Quemando Tokens»?</sub></summary>
 <br>
 
-*Quemando tokens* is Spanish for “burning tokens” — what happens when you push models, compute and late-night ideas until something real comes out the other side. The flame and the circuit in our logo say the same thing: energy, turned into engineering.
+Porque así se avanza: quemando tokens, horas de cómputo y alguna que otra noche hasta que una idea se convierte en algo que funciona. La llama y el circuito del logotipo cuentan lo mismo: energía convertida en ingeniería.
 
 </details>
 
-<br>
-
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
-### The team
+### El equipo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/team-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/team-light.svg">
-  <img src="./assets/team-light.svg" width="100%" alt="Four identical nodes connected in a closed circuit: four people, one team, no hierarchy.">
+  <img src="./assets/team-light.svg" width="100%" alt="Cuatro nodos idénticos unidos en un circuito cerrado: cuatro personas, un equipo, sin jerarquías.">
 </picture>
 
-We are four people working as one team. No titles, no ranking — every voice carries the same weight, every project is planned, built and reviewed together, and the credit is shared the same way.
-
-<br>
+Cuatro personas y un solo equipo. Sin cargos ni rangos: cada voz pesa lo mismo, cada proyecto se planifica, se construye y se revisa en común, y el mérito se reparte igual.
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
-### Focus
+### En qué trabajamos
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/focus-light.svg">
-  <img src="./assets/focus-light.svg" width="100%" alt="Focus areas: Software Engineering, Artificial Intelligence, Data and Algorithms, Research and Experimentation.">
+  <img src="./assets/focus-light.svg" width="100%" alt="Áreas: ingeniería de software, inteligencia artificial, datos y algoritmos, I+D y experimentación.">
 </picture>
-
-<br>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
-### How we work
+### Cómo trabajamos
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/workflow-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/workflow-light.svg">
-  <img src="./assets/workflow-light.svg" width="100%" alt="How we work: idea, prototype, experiment, result.">
+  <img src="./assets/workflow-light.svg" width="100%" alt="Cómo trabajamos: idea, prototipo, experimento y resultado.">
 </picture>
 
-- **Build to understand.** We learn fastest by making things work.
-- **Evidence over opinion.** We test, measure and keep what holds up.
-- **Together by default.** Shared decisions, shared reviews, shared credit.
-- **Finish what we start.** An idea counts once it runs.
-
-<br>
+- **Construir para entender.** Aprendemos más rápido cuando algo funciona de verdad.
+- **Evidencias antes que opiniones.** Probamos, medimos y nos quedamos con lo que resiste.
+- **Juntos por defecto.** Decisiones, revisiones y mérito compartidos.
+- **Terminar lo que empezamos.** Una idea cuenta cuando funciona.
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
-### Projects
+### Ahora
+
+**NASA Space Apps Challenge 2026** · 14 y 15 de noviembre.<br>
+Estamos preparando la forma de trabajar: metodología, revisión, pruebas y herramientas. El proyecto en sí empezará con el reto, como establecen las bases.
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
+### Proyectos
 
 ```console
 $ ls QuemandoTokenss/
-# nothing public yet — this list only grows with real, working projects.
+# todavía no hay proyectos públicos: esta lista solo crecerá con trabajo real y funcional.
 ```
 
 <!--
-  Add projects here as they go public. Keep one line per project:
+  Añadid aquí cada proyecto cuando sea público. Una línea por proyecto:
 
-  | Project | What it does | Stack |
+  | Proyecto | Qué hace | Tecnologías |
   | :-- | :-- | :-- |
-  | [name](https://github.com/QuemandoTokenss/name) | One clear sentence. | Python · PyTorch |
+  | [nombre](https://github.com/QuemandoTokenss/nombre) | Una frase clara. | Python · PyTorch |
 -->
-
-<br>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img src="./assets/footer-light.svg" width="100%" alt="Burn tokens. Build things. Quemando Tokens, hecho en Bilbao.">
+  <img src="./assets/footer-light.svg" width="100%" alt="Quemamos tokens. Encendemos ideas. Quemando Tokens, hecho en Bilbao.">
 </picture>
+
+<p align="center"><sub>Equipo independiente de estudiantes. Sin afiliación oficial con la NASA ni con la Universidad de Deusto.</sub></p>
